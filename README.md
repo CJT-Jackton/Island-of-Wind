@@ -1,5 +1,7 @@
 <!-- Island of Wind -->
-# Island of Wind
+
+<img src="http://i.imgur.com/lQ9Dv7I.png" alt="Logo">
+
 A puzzle game achieved with <a href="https://www.panda3d.org/" target="_blank">Panda3D</a>. Student works, non-commercial use.
 
 ## How to play
