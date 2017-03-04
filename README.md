@@ -7,24 +7,16 @@ A puzzle game achieved with Panda3D. Student works, non-commercial use.
 
 ## Author
 **AlphaTeam:**
+* Japper (Group leader)
+* CJT
+* FlyAgain
+* noʎ nM
+* 说好的钞票呢
+* <a herf="https://github.com/chikuiLee" target="_blank">DrLee</a>
+* 1070803907
 
-Japper (Group leader)
-
-CJT
-
-FlyAgain
-
-noʎ nM
-
-说好的钞票呢
-
-<a herf="https://github.com/chikuiLee" target="_blank">DrLee</a>
-
-1070803907
-
-
+---
 **Instructor:**
 
-A.P.  Zelin Chen
-
-Ph.D. Shaowu Peng
+* A.P.  Zelin Chen
+* Ph.D. Shaowu Peng
