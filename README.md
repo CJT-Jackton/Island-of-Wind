@@ -9,17 +9,17 @@ A puzzle game achieved with <a href="https://www.panda3d.org/" target="_blank">P
 ## Author
 **AlphaTeam:**
 
-Japper (Group leader)
+**Japper** (***Group leader***) Yining Liu
 
-![ ](https://avatars2.githubusercontent.com/u/11604957?v=3&s=20) <a href="https://github.com/CJT-Jackton" target="_blank">CJT</a>
+![ ](https://avatars2.githubusercontent.com/u/11604957?v=3&s=20) <a href="https://github.com/CJT-Jackton" target="_blank">**CJT**</a> Jietong Chen
 
-FlyAgain
+**FlyAgain** Shangtong Wang
 
-noʎ nM
+**noʎ nM** Zhishang Zhou
 
-说好的钞票呢
+**说好的钞票呢** Lilong Huang
 
-![ ](https://avatars0.githubusercontent.com/u/10250250?v=3&s=20) <a href="https://github.com/chikuiLee" target="_blank">DrLee</a> Zhikui Li
+![ ](https://avatars0.githubusercontent.com/u/10250250?v=3&s=20) <a href="https://github.com/chikuiLee" target="_blank">**DrLee**</a> Zhikui Li
 
 Peng Deng
 
