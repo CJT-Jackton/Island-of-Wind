@@ -1,5 +1,6 @@
+<!-- Island of Wind -->
 # Island of Wind
-A puzzle game achieved with Panda3D. Student works, non-commercial use.
+A puzzle game achieved with <a href="https://www.panda3d.org/" target="_blank">Panda3D</a>. Student works, non-commercial use.
 
 ## How to play
 1. Make sure you installed <a href="https://www.panda3d.org/download.php?sdk" target="_blank">Panda3D game engine</a>(1.9.2 or higher) and Python
@@ -12,9 +13,10 @@ A puzzle game achieved with Panda3D. Student works, non-commercial use.
 * FlyAgain
 * noʎ nM
 * 说好的钞票呢
-* <a herf="https://github.com/chikuiLee" target="_blank">DrLee</a>
-* 1070803907
 
+![DrLee](https://avatars0.githubusercontent.com/u/10250250?v=3&s=20)<a href="https://github.com/chikuiLee" target="_blank">DrLee</a> Zhikui Li
+
+Peng Deng
 ---
 **Instructor:**
 
