@@ -8,17 +8,24 @@ A puzzle game achieved with <a href="https://www.panda3d.org/" target="_blank">P
 
 ## Author
 **AlphaTeam:**
-* Japper (Group leader)
-* CJT
-* FlyAgain
-* noʎ nM
-* 说好的钞票呢
 
-![DrLee](https://avatars0.githubusercontent.com/u/10250250?v=3&s=20)<a href="https://github.com/chikuiLee" target="_blank">DrLee</a> Zhikui Li
+Japper (Group leader)
+
+![ ](https://avatars2.githubusercontent.com/u/11604957?v=3&s=20) <a href="https://github.com/CJT-Jackton" target="_blank">CJT</a>
+
+FlyAgain
+
+noʎ nM
+
+说好的钞票呢
+
+![ ](https://avatars0.githubusercontent.com/u/10250250?v=3&s=20) <a href="https://github.com/chikuiLee" target="_blank">DrLee</a> Zhikui Li
 
 Peng Deng
+
 ---
 **Instructor:**
 
-* A.P.  Zelin Chen
-* Ph.D. Shaowu Peng
+*A.P.*   Zelin Chen
+
+*Ph.D.*  Shaowu Peng
