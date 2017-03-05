@@ -23,7 +23,7 @@ A puzzle game achieved with <a href="https://www.panda3d.org/" target="_blank">P
  <a href="https://github.com/CJT-Jackton" target="_blank">**CJT**</a> Jietong Chen
 
 <img src="http://q.qlogo.cn/headimg_dl?dst_uin=1132741010&spec=640" alt="1132741010" width="20" height="20">
- **FlyAgain** Shangtong Wang
+ <a href="https://github.com/orbitmoon" target="_blank">**FlyAgain**</a> Shangtong Wang
 
 <img src="http://q.qlogo.cn/headimg_dl?dst_uin=364075883&spec=640" alt="364075883" width="20" height="20">
  <a href="https://github.com/1z-McGrady" target="_blank">**noʎ nM**</a> Zhishang Zhou
