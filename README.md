@@ -26,7 +26,7 @@ A puzzle game achieved with <a href="https://www.panda3d.org/" target="_blank">P
  **FlyAgain** Shangtong Wang
 
 <img src="http://q.qlogo.cn/headimg_dl?dst_uin=364075883&spec=640" alt="364075883" width="20" height="20">
- **noʎ nM** Zhishang Zhou
+ <a href="https://github.com/1z-McGrady" target="_blank">**noʎ nM**</a> Zhishang Zhou
 
 <img src="http://q.qlogo.cn/headimg_dl?dst_uin=493711318&spec=640" alt="493711318" width="20" height="20">
  **说好的钞票呢** Lilong Huang
